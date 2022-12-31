@@ -3,8 +3,11 @@
 <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 170.1 42.5" style="enable-background:new 0 0 170.1 42.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#231815;stroke-width:0.7087;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;stroke:#231815;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#231815;stroke-width:0.7087;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M121.9,7.05h-8.5v14.2h-8.5V7.05H65.2v14.2h-8.5V7.05h-8.5c-3.1,0-5.7,2.5-5.7,5.7v17c0,3.1,2.5,5.7,5.7,5.7
-	h73.7c3.1,0,5.7-2.5,5.7-5.7v-17C127.6,9.55,125,7.05,121.9,7.05z"/>
+<path class="st0" d="M453.68,297.64v14.17h-8.65v-14.17h-39.69v14.17h-8.65v-14.17h-11.2c-1.57,0-2.83,1.27-2.83,2.83v22.68
+	c0,1.57,1.27,2.83,2.83,2.83h79.37c1.57,0,2.83-1.27,2.83-2.83v-22.68c0-1.57-1.27-2.83-2.83-2.83H453.68z"/>
+<path class="st1" d="M113.54,7.08v14.17h-8.65V7.08H65.21v14.17h-8.65V7.08h-11.2c-1.57,0-2.83,1.27-2.83,2.83v22.68
+	c0,1.57,1.27,2.83,2.83,2.83h79.37c1.57,0,2.83-1.27,2.83-2.83V9.91c0-1.57-1.27-2.83-2.83-2.83H113.54z"/>
 </svg>
